@@ -33,7 +33,7 @@ def math_ops():
 
 
 @app.route('/postman_action',methods=['POST'])
-def math_ops1():
+def math_operations():
     if(request.method == 'POST'):
         ops = request.json['operation']
         num1 = int(request.json['num1'])

@@ -1,0 +1,10 @@
+Topics for T3:
+1. Dickey Fuller test
+2. T distribution (T^2 distribution, t-test,,t^2 test,,students, t test)- chap11
+3. Logistic regression
+4. Gaussian Process regression
+5. Model validation technique
+6. LASSO
+7. Ridge
+8. KNN
+9. SVM
